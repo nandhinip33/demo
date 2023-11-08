@@ -8,6 +8,7 @@ public class IntAddition {
 		int num2 = num + num1;
 		
 		System.out.println(num2);
+		System.out.println(num);
 	}
 
 }
